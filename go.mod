@@ -1,4 +1,4 @@
-module webhook
+module github.com/juliovcruz/webhook-gen
 
 go 1.15
 
